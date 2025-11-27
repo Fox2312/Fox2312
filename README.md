@@ -1,6 +1,6 @@
 <!-- HEADER & BANNER -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/01b02e42-52ee-42a9-be0e-6d9dc20e88d2" width="70%" style="border-radius: 12px; border: 2px solid #e65100; opacity: 0.9;" alt="Fox Banner">
+  <img src="https://github.com/user-attachments/assets/01b02e42-52ee-42a9-be0e-6d9dc20e88d2" width="65%" style="border-radius: 12px; border: 2px solid #e65100; opacity: 0.9;" alt="Fox Banner">
 
   <br><br>
   
