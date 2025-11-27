@@ -49,7 +49,7 @@
 ---
 
 <!-- TECH STACK -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Leaf" width="30" height="30" /> Programming language
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Leaf" width="30" height="30" /> Programming languages
 ---
 <div align="center">
   <!-- Languages & Tools (Custom Orange Palette) -->
