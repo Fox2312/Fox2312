@@ -49,8 +49,8 @@
 ---
 
 <!-- TECH STACK -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Autumn%20Leaf.png" alt="Leaf" width="30" height="30" /> Tech Stack
-
+### <img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Autumn%20Leaf.png](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png)" alt="Leaf" width="30" height="30" /> Tech Stack
+---
 <div align="center">
   <!-- Languages & Tools (Custom Orange Palette) -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=e64a19">
