@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🇬🇧 English</h3>
+      <h3>English</h3>
       <blockquote>
         "Code should be as sharp as a fox's wit and as elegant as its stride."
       </blockquote>
@@ -35,7 +35,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🇷🇺 Русский</h3>
+      <h3>Русский</h3>
       <blockquote>
         "Код должен быть острым, как лисий ум, и элегантным, как её поступь."
       </blockquote>
